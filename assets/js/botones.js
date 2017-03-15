@@ -3,6 +3,15 @@ var sprint1=document.getElementById("sprint1");
 var sprint2=document.getElementById("sprint2");
 var evaluacion1=document.getElementById("evaluacion1");
 var evaluacion2=document.getElementById("evaluacion2");
+document.getElementById("enviar1").addEventListener("click",function(){
+	evaluacion1.style.display="none";
+});
+
+document.getElementById("enviar2").addEventListener("click",function(){
+	evaluacion2.style.display="none";
+});
+
+
 
 var mostarOcultar = function() {
 	sprint1.style.display = "block";
