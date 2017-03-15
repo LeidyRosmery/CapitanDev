@@ -1,3 +1,17 @@
+#sprint1{
+	display : none;
+}
+#sprint2{
+	display : block;
+}
+#evaluacion1{
+	display : none;
+}
+#evaluacion2{
+	display : block;
+}
+
+
 .dropbtn {
   background-color: white;
   color: black;
@@ -55,6 +69,8 @@ body {
   margin: 0px;
   font-family: 'Raleway', sans-serif;
 }
+
+
 
 .text-right {
   text-align: right;
