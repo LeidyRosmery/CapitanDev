@@ -1,8 +1,14 @@
-#text2{
+#sprint1{
 	display : none;
 }
-#text1{
+#sprint2{
+	display : block;
+}
+#evaluacion1{
 	display : none;
+}
+#evaluacion2{
+	display : block;
 }
 
 
